@@ -5,6 +5,9 @@ public class Lab002 {
 
 	        // Integer variable
 	        int age = 25;
+	        
+	        //float variable
+	        float myFloatNum = 5.99f;
 
 	        // Double variable
 	        double salary = 45000.50;
@@ -24,6 +27,7 @@ public class Lab002 {
 	        System.out.println("Salary: " + salary);
 	        System.out.println("Grade: " + grade);
 	        System.out.println("Is Automation Tester: " + isAutomationTester);
+	        System.out.println("Float: " + myFloatNum);
 	    
 	}
 
