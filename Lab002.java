@@ -13,7 +13,7 @@ public class Lab002 {
 	        double salary = 45000.50;
 
 	        // Character variable
-	        char grade = 'A';
+	        char grade = 'B';
 
 	        // Boolean variable
 	        boolean isAutomationTester = true;
