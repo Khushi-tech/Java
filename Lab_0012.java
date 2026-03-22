@@ -20,7 +20,7 @@ public class Lab_0012 {
 	    public static void main(String[] args) {
 
 	        // Calling overloaded methods
-	        System.out.println("Sum of 2 numbers: " + add(10, 20));
+	        System.out.println("Sum of 2 numbers: " + add(20, 20));
 
 	        System.out.println("Sum of 3 numbers: " + add(10, 20, 30));
 
